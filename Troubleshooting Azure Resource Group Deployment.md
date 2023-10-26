@@ -11,9 +11,9 @@
 $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space and \space database  \space 'abcdef-database' \space  is \space  in \space progress. \space Please \space wait \space a \space few \space minutes \space before \space trying \space again. " \space}$$
 
 
+<!-- ${\color{red}**Resolution**}$ -->
 
-
-<strong style="color: red; opacity: 0.80;">**Resolution**:</strong>
+<strong style="color: red; opacity: 0.80;">${\color{red}**Resolution**:}$</strong>
 
 <strong style="color: red; opacity: 0.80;">**Immediate Action**:</strong> Retry the deployment after waiting for a couple of minutes. The error message may be due to a temporary server operation or database update.
 
