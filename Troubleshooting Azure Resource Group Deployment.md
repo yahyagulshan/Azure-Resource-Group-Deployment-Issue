@@ -10,6 +10,8 @@
 ``` -->
 $${\color{red}"Operation  on  server  'abcdef-database'  and  database 'abcdef-database'  is  in  progress.  Please  wait  a  few  minutes  before  trying  again. "}$$
 
+${\color{red}{This text is red.}}$
+
 <strong style="color: red; opacity: 0.80;">Resolution:</strong>
 
 <strong style="color: red; opacity: 0.80;">Immediate Action:</strong> Retry the deployment after waiting for a couple of minutes. The error message may be due to a temporary server operation or database update.
