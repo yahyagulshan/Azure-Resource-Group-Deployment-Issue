@@ -13,7 +13,9 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 
 <!-- ${\color{red}**Resolution**}$ -->
 
-$${\size{16}This is the text whose size you want to change}$$
+{%.tip %}
+This text is red and 20px in size.
+{%.endtip %}
 
 <strong>**Resolution**:</strong>
 
