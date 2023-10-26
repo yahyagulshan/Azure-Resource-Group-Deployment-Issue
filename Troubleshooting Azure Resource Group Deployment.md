@@ -10,7 +10,13 @@
 ``` -->
 $${\color{red}"Operation  on  server  'abcdef-database'  and  database 'abcdef-database'  is  in  progress.  Please  wait  a  few  minutes  before  trying  again. "}$$
 
-$${\color{red}This is red text}$$
+## Text Color in MD Files
+
+This is **bold** and **italic** text.
+
+This is <span style="color: red;">red text</span>.
+
+This is $${\color{blue}blue text}$$ using LaTeX.
 
 
 <strong style="color: red; opacity: 0.80;">Resolution:</strong>
