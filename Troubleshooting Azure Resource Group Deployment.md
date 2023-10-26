@@ -8,7 +8,7 @@
  <!-- ```diff
 
 ``` -->
-$${\color{red}"Operation  on  server  'abcdef-database'  and  database 'abcdef-database'  is  in  progress.  Please  wait  a  few  minutes  before  trying  again. " \space}$$
+$${\color{red}"Operation \space on \space server \space 'abcdef-database' \space and \space database  \space 'abcdef-database' \space  is \space  in \space progress. \space Please \space wait \space a \space few \space minutes \space before \space trying \space again. " \space}$$
 
 
 
