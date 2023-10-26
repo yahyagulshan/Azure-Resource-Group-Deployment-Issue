@@ -13,7 +13,7 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 
 <!-- ${\color{red}**Resolution**}$ -->
 
-$${\color{blue}**Resolution**:}$$
+$${\color{blue}<strong>**Resolution**:</strong>}$$
 
 
 <strong style="color: red; opacity: 0.80;">**Immediate Action**:</strong> Retry the deployment after waiting for a couple of minutes. The error message may be due to a temporary server operation or database update.
