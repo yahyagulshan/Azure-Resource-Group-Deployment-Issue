@@ -17,17 +17,8 @@
 <strong style="color: red; opacity: 0.80;">Check for Azure Maintenance:</strong> It's possible that Azure is performing maintenance, patching, or updates in the background. 
 These activities can temporarily affect deployment processes. Waiting for a while can often resolve the issue.
 
-# Using the `<span>` tag
-
-<span style="color: red;">This text is red.</span>
-<span style="color: blue;">This text is blue.</span>
-<span style="color: green;">This text is green.</span>
-
-# Using LaTeX
-
 $${\color{red}This text is red.}$$
-$${\color{blue}This text is blue.}$$
-$${\color{green}This text is green.}$$
+
 <!-- ```diff
 - text in red
 + text in green
