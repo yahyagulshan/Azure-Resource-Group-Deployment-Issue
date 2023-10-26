@@ -16,10 +16,10 @@ Check for Azure Maintenance: It's possible that Azure is performing maintenance,
 These activities can temporarily affect deployment processes. Waiting for a while can often resolve the issue.
 
 
-```diff
+<!-- ```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```
+``` -->
