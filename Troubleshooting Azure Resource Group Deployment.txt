@@ -1,4 +1,4 @@
-Troubleshooting Azure Resource Group Deployment
+**Troubleshooting Azure Resource Group Deployment**
 
 Issue: The process becomes stuck during the database step when deploying resources to an Azure resource group. An error message is displayed:
 
