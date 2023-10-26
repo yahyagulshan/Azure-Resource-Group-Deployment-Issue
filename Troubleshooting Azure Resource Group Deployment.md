@@ -13,6 +13,8 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 
 <!-- ${\color{red}**Resolution**}$ -->
 
+<code style="color: #ff0000">This is red text.</code>
+
 <strong>**Resolution**:</strong>
 
 
