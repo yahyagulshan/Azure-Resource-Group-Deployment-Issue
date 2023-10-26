@@ -13,7 +13,7 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 
 <!-- ${\color{red}**Resolution**}$ -->
 
-<font size="16">This is the text whose size you want to change</font>
+<font size="26">This is the text whose size you want to change</font>
 
 <strong>**Resolution**:</strong>
 
