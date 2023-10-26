@@ -13,9 +13,8 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 
 <!-- ${\color{red}**Resolution**}$ -->
 
-{%.tip %}
-This text is red and 20px in size.
-{%.endtip %}
+$${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
+
 
 <strong>**Resolution**:</strong>
 
