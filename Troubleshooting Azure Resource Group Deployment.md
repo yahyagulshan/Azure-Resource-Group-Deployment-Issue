@@ -6,9 +6,9 @@
 
  <strong style="color: red; opacity: 0.80;">Error Message:</strong> 
  ```diff
-$${\color{red}"Operation on server 'abcdef-database' and database 'abcdef-database' is in progress. Please wait a few minutes before trying again.}$$
-```
 
+```
+$${\color{red}"Operation on server 'abcdef-database' and database 'abcdef-database' is in progress. Please wait a few minutes before trying again.}$$
 
 <strong style="color: red; opacity: 0.80;">Resolution:</strong>
 
