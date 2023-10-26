@@ -18,7 +18,7 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 
 
 
-**Resolution**:
+<strong>**Resolution**:</strong>
 
 
 <strong style="color: red; opacity: 0.80;">**Immediate Action**:</strong> Retry the deployment after waiting for a couple of minutes. The error message may be due to a temporary server operation or database update.
@@ -26,7 +26,7 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 <strong style="color: red; opacity: 0.80;">**Check for Azure Maintenance**:</strong> It's possible that Azure is performing maintenance, patching, or updates in the background. 
 These activities can temporarily affect deployment processes. Waiting for a while can often resolve the issue.
 
-# ${This\ is\ a\ {\color{red}Big}}\ Title$
+<!-- # ${This\ is\ a\ {\color{red}Big}}\ Title$ -->
 
 <!-- $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
