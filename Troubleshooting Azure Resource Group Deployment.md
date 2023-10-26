@@ -1,6 +1,6 @@
 # Troubleshooting Azure Resource Group Deployment
 
-`#f03c15`
+
 
 <strong style="color: red; opacity: 0.80;">Issue:</strong> The process becomes stuck during the database step when deploying resources to an Azure resource group. An error message is displayed
 
