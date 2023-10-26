@@ -1,7 +1,7 @@
 # Troubleshooting Azure Resource Group Deployment
 
 
-Issue: The process becomes stuck during the database step when deploying resources to an Azure resource group. An error message is displayed:
+<strong style="color: red; opacity: 0.80;">Issue:</strong> The process becomes stuck during the database step when deploying resources to an Azure resource group. An error message is displayed:
 
 Error Message: "Operation on server 'abcdef-database' and database 'abcdef-database' is in progress. Please wait a few minutes before trying again."
 
@@ -11,4 +11,4 @@ Immediate Action: Retry the deployment after waiting for a couple of minutes. Th
 Check for Azure Maintenance: It's possible that Azure is performing maintenance, patching, or updates in the background. 
 These activities can temporarily affect deployment processes. Waiting for a while can often resolve the issue.
 
-<strong style="color: red; opacity: 0.80;">My Bold Text, in red color.</strong>
+
