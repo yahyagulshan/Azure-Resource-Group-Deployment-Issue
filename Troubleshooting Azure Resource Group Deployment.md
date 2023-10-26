@@ -6,7 +6,6 @@
 
  <strong style="color: red; opacity: 0.80;">Error Message::</strong> 
  ```diff
- - text in red
  "Operation on server 'abcdef-database' and database 'abcdef-database' is in progress. Please wait a few minutes before trying again.
 ```
 
