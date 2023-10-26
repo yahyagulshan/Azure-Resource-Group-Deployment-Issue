@@ -15,7 +15,7 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 
 <!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
 
-$\color{green}{test}$
+
 
 
 <strong>**Resolution**:</strong>
@@ -26,15 +26,7 @@ $\color{green}{test}$
 <strong style="color: red; opacity: 0.80;">**Check for Azure Maintenance**:</strong> It's possible that Azure is performing maintenance, patching, or updates in the background. 
 These activities can temporarily affect deployment processes. Waiting for a while can often resolve the issue.
 
-<!-- $${\color{red}This text is red.}$$ -->
-
-<!-- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-``` -->
+# ${This\ is\ a\ {\color{red}Big}}\ Title$
 
 <!-- $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
@@ -55,3 +47,6 @@ $\text{hello}$    #normal
 $\Large{hello}$$   #Bigger text size
 
 $$\LaTeX$$ -->
+
+
+<!-- $\color{green}{test}$ -->
