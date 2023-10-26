@@ -10,7 +10,8 @@
 ``` -->
 $${\color{red}"Operation  on  server  'abcdef-database'  and  database 'abcdef-database'  is  in  progress.  Please  wait  a  few  minutes  before  trying  again. "}$$
 
-${\color{red}{This  text    is  red .    }}$
+<span style="color: blue;">This text is blue.</span>
+
 
 <strong style="color: red; opacity: 0.80;">Resolution:</strong>
 
