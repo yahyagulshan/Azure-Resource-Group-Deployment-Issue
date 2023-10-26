@@ -18,7 +18,7 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 
 
 
-<strong>**Resolution**:</strong>
+**Resolution**:
 
 
 <strong style="color: red; opacity: 0.80;">**Immediate Action**:</strong> Retry the deployment after waiting for a couple of minutes. The error message may be due to a temporary server operation or database update.
