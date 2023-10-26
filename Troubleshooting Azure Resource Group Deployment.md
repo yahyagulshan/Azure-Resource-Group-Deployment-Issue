@@ -5,10 +5,10 @@
 <strong style="color: red; opacity: 0.80;">Issue:</strong> The process becomes stuck during the database step when deploying resources to an Azure resource group. An error message is displayed
 
  <strong style="color: red; opacity: 0.80;">Error Message:</strong> 
- ```diff
+ <!-- ```diff
 
-```
-$${\color{red}"Operation on server 'abcdef-database' and database 'abcdef-database' is in progress. Please wait a few minutes before trying again.}$$
+``` -->
+$${\color{red}"Operation  on  server  'abcdef-database'  and  database 'abcdef-database'  is  in  progress.  Please  wait  a  few  minutes  before  trying  again. "}$$
 
 <strong style="color: red; opacity: 0.80;">Resolution:</strong>
 
