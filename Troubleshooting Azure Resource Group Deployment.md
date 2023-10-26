@@ -11,7 +11,9 @@
 
 
 <strong style="color: red; opacity: 0.80;">Resolution:</strong>
+
 <strong style="color: red; opacity: 0.80;">Immediate Action:</strong> Retry the deployment after waiting for a couple of minutes. The error message may be due to a temporary server operation or database update.
+
 <strong style="color: red; opacity: 0.80;">Check for Azure Maintenance:</strong> It's possible that Azure is performing maintenance, patching, or updates in the background. 
 These activities can temporarily affect deployment processes. Waiting for a while can often resolve the issue.
 
