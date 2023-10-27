@@ -11,10 +11,18 @@
 $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space and \space database  \space 'abcdef-database' \space  is \space  in \space progress. \space Please \space wait \space a \space few \space minutes \space before \space trying \space again. " \space}$$
 
 
-<!-- ${\color{red}**Resolution**}$ -->
 
-<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
+## This is a heading
 
+This is some regular text.
+
+This is some red text: ${\color{red}Red}$
+
+This is some 20px text: <span style="font-size: 20px;">This is 20px text.</span>
+
+This is a new paragraph:
+
+<p>This is a new paragraph.</p>
 
 
 
@@ -24,7 +32,7 @@ $${\color{red}"Operation \space on \space server \space 'abcdef-database' \space
 <strong style="color: red; opacity: 0.80;">**Immediate Action**:</strong> Retry the deployment after waiting for a couple of minutes. The error message may be due to a temporary server operation or database update.
 
 <strong style="color: red; opacity: 0.80;">**Check for Azure Maintenance**:</strong> It's possible that Azure is performing maintenance, patching, or updates in the background. 
-These activities can temporarily affect deployment processes. Waiting for a while can often resolve the issue.
+These activities can temporarily affect deployment processes. Waiting for a while can often resolve the issue..
 
 <!-- # ${This\ is\ a\ {\color{red}Big}}\ Title$ -->
 
@@ -50,3 +58,8 @@ $$\LaTeX$$ -->
 
 
 <!-- $\color{green}{test}$ -->
+
+
+<!-- ${\color{red}**Resolution**}$ -->
+
+<!-- $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$ -->
